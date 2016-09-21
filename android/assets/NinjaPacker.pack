@@ -1,0 +1,732 @@
+
+NinjaPacker.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 504
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 0
+Attack_
+  rotate: false
+  xy: 1, 7
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 1
+Dead_
+  rotate: false
+  xy: 539, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 0
+Dead_
+  rotate: false
+  xy: 539, 1
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 1
+
+NinjaPacker2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 504
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 2
+Attack_
+  rotate: false
+  xy: 1, 7
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 3
+Dead_
+  rotate: false
+  xy: 539, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 2
+Dead_
+  rotate: false
+  xy: 539, 1
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 3
+
+NinjaPacker3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 504
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 4
+Attack_
+  rotate: false
+  xy: 1, 7
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 5
+Dead_
+  rotate: false
+  xy: 539, 501
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 4
+Dead_
+  rotate: false
+  xy: 539, 1
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 5
+
+NinjaPacker4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 523
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 6
+Attack_
+  rotate: false
+  xy: 1, 26
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 7
+Dead_
+  rotate: false
+  xy: 539, 520
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 6
+Dead_
+  rotate: false
+  xy: 539, 520
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 7
+Dead_
+  rotate: false
+  xy: 539, 520
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 8
+Dead_
+  rotate: false
+  xy: 539, 520
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 9
+Jump_
+  rotate: false
+  xy: 539, 35
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 0
+Kunai
+  rotate: false
+  xy: 539, 1
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+
+NinjaPacker5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 525
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 8
+Jump_Attack_
+  rotate: false
+  xy: 1, 1
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 0
+Jump_Attack_
+  rotate: false
+  xy: 507, 1
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 1
+Jump_
+  rotate: false
+  xy: 539, 537
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 1
+
+NinjaPacker6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 525
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 9
+Jump_Attack_
+  rotate: false
+  xy: 1, 1
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 2
+Jump_
+  rotate: false
+  xy: 539, 537
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 2
+Jump_Attack_
+  rotate: false
+  xy: 507, 1
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 3
+
+NinjaPacker7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump_Attack_
+  rotate: false
+  xy: 1, 486
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 4
+Jump_Attack_
+  rotate: false
+  xy: 507, 486
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 5
+Jump_
+  rotate: false
+  xy: 1, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 3
+Jump_
+  rotate: false
+  xy: 1, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 4
+Jump_
+  rotate: false
+  xy: 1, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 5
+Jump_
+  rotate: false
+  xy: 365, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 6
+Idle_
+  rotate: false
+  xy: 729, 45
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 0
+
+NinjaPacker8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump_Attack_
+  rotate: false
+  xy: 1, 486
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 6
+Jump_Attack_
+  rotate: false
+  xy: 507, 486
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 7
+Jump_
+  rotate: false
+  xy: 1, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 7
+Jump_
+  rotate: false
+  xy: 365, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 8
+Jump_
+  rotate: false
+  xy: 365, 1
+  size: 362, 483
+  orig: 362, 483
+  offset: 0, 0
+  index: 9
+Idle_
+  rotate: false
+  xy: 729, 45
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 1
+Idle_
+  rotate: false
+  xy: 729, 45
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 9
+
+NinjaPacker9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump_Attack_
+  rotate: false
+  xy: 1, 454
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 8
+Jump_Attack_
+  rotate: false
+  xy: 507, 454
+  size: 504, 522
+  orig: 504, 522
+  offset: 0, 0
+  index: 9
+Throw_
+  rotate: false
+  xy: 1, 1
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 0
+Throw_
+  rotate: false
+  xy: 380, 1
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 1
+Idle_
+  rotate: false
+  xy: 759, 13
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 2
+Idle_
+  rotate: false
+  xy: 759, 13
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 8
+
+NinjaPacker10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw_
+  rotate: false
+  xy: 1, 454
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 2
+Throw_
+  rotate: false
+  xy: 1, 1
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 3
+Throw_
+  rotate: false
+  xy: 380, 454
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 4
+Throw_
+  rotate: false
+  xy: 380, 1
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 5
+Idle_
+  rotate: false
+  xy: 759, 466
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 3
+Idle_
+  rotate: false
+  xy: 759, 466
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 7
+Idle_
+  rotate: false
+  xy: 759, 25
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 4
+Idle_
+  rotate: false
+  xy: 759, 25
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 6
+
+NinjaPacker11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Throw_
+  rotate: false
+  xy: 1, 454
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 6
+Throw_
+  rotate: false
+  xy: 1, 1
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 7
+Throw_
+  rotate: false
+  xy: 380, 454
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 8
+Throw_
+  rotate: false
+  xy: 380, 1
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 9
+Idle_
+  rotate: false
+  xy: 759, 466
+  size: 232, 439
+  orig: 232, 439
+  offset: 0, 0
+  index: 5
+
+NinjaPacker12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 461
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 0
+Run_
+  rotate: false
+  xy: 1, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 1
+Run_
+  rotate: false
+  xy: 366, 461
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 2
+Run_
+  rotate: false
+  xy: 366, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 3
+
+NinjaPacker13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 461
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 4
+Run_
+  rotate: false
+  xy: 1, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 5
+Run_
+  rotate: false
+  xy: 366, 461
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 6
+Run_
+  rotate: false
+  xy: 366, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 7
+
+NinjaPacker14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 461
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 8
+Run_
+  rotate: false
+  xy: 1, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 9
+Jump_Throw_
+  rotate: false
+  xy: 366, 488
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 0
+Jump_Throw_
+  rotate: false
+  xy: 366, 55
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 1
+
+NinjaPacker15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump_Throw_
+  rotate: false
+  xy: 1, 434
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 2
+Jump_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 3
+Jump_Throw_
+  rotate: false
+  xy: 363, 434
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 4
+Jump_Throw_
+  rotate: false
+  xy: 363, 1
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 5
+
+NinjaPacker16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump_Throw_
+  rotate: false
+  xy: 1, 434
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 6
+Jump_Throw_
+  rotate: false
+  xy: 1, 1
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 7
+Jump_Throw_
+  rotate: false
+  xy: 363, 434
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 8
+Jump_Throw_
+  rotate: false
+  xy: 363, 1
+  size: 360, 431
+  orig: 360, 431
+  offset: 0, 0
+  index: 9
+
+NinjaPacker17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Slide_
+  rotate: false
+  xy: 1, 354
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 0
+Slide_
+  rotate: false
+  xy: 1, 1
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 1
+Slide_
+  rotate: false
+  xy: 376, 354
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 2
+Slide_
+  rotate: false
+  xy: 376, 1
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 3
+
+NinjaPacker18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Slide_
+  rotate: false
+  xy: 1, 354
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 4
+Slide_
+  rotate: false
+  xy: 1, 1
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 5
+Slide_
+  rotate: false
+  xy: 376, 354
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 6
+Slide_
+  rotate: false
+  xy: 376, 1
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 7
+
+NinjaPacker19.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Slide_
+  rotate: false
+  xy: 1, 1
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 8
+Slide_
+  rotate: false
+  xy: 376, 1
+  size: 373, 351
+  orig: 373, 351
+  offset: 0, 0
+  index: 9

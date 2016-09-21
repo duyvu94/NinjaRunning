@@ -1,0 +1,62 @@
+
+MonsterPacker.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Grumpy
+  rotate: false
+  xy: 1, 451
+  size: 492, 400
+  orig: 492, 400
+  offset: 0, 0
+  index: 1
+Grumpy
+  rotate: false
+  xy: 495, 451
+  size: 492, 400
+  orig: 492, 400
+  offset: 0, 0
+  index: 2
+bullet_
+  rotate: false
+  xy: 1, 1
+  size: 843, 448
+  orig: 843, 448
+  offset: 0, 0
+  index: 1
+
+MonsterPacker2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fishspaceship
+  rotate: false
+  xy: 1, 1
+  size: 1000, 634
+  orig: 1000, 634
+  offset: 0, 0
+  index: -1
+
+MonsterPacker3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+smilingspaceship
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+MonsterPacker4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bullet_
+  rotate: false
+  xy: 1, 1
+  size: 843, 448
+  orig: 843, 448
+  offset: 0, 0
+  index: 2

@@ -1,0 +1,237 @@
+
+OtherPacker.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+black
+  rotate: false
+  xy: 1, 530
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 48
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+backbuttondown
+  rotate: false
+  xy: 803, 965
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+backbuttonup
+  rotate: false
+  xy: 1, 1
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+exitbuttondown
+  rotate: false
+  xy: 803, 918
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+exitbuttonup
+  rotate: false
+  xy: 203, 1
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+helpbuttondown
+  rotate: false
+  xy: 803, 871
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+helpbuttonup
+  rotate: false
+  xy: 405, 1
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+musicoffbuttondown
+  rotate: false
+  xy: 803, 824
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+musicoffbuttonup
+  rotate: false
+  xy: 803, 777
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+musiconbuttondown
+  rotate: false
+  xy: 803, 730
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+musiconbuttonup
+  rotate: false
+  xy: 803, 683
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+resumebuttondown
+  rotate: false
+  xy: 803, 636
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+resumebuttonup
+  rotate: false
+  xy: 803, 589
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+settingbuttondown
+  rotate: false
+  xy: 803, 542
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+settingbuttonup
+  rotate: false
+  xy: 803, 495
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+soundoffbuttondown
+  rotate: false
+  xy: 803, 448
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+soundoffbuttonup
+  rotate: false
+  xy: 803, 401
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+soundonbuttondown
+  rotate: false
+  xy: 803, 354
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+soundonbuttonup
+  rotate: false
+  xy: 803, 307
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+startbuttondown
+  rotate: false
+  xy: 803, 260
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+startbuttonup
+  rotate: false
+  xy: 803, 213
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+pausebutton
+  rotate: false
+  xy: 803, 111
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 905, 143
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+
+OtherPacker2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Explosion
+  rotate: false
+  xy: 1, 895
+  size: 1000, 83
+  orig: 1000, 83
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 613
+  size: 995, 280
+  orig: 995, 280
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 1, 131
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+land
+  rotate: false
+  xy: 1, 1
+  size: 768, 128
+  orig: 768, 128
+  offset: 0, 0
+  index: -1
+
+OtherPacker3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+white
+  rotate: false
+  xy: 1, 452
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+lefttouch
+  rotate: false
+  xy: 1, 1
+  size: 717, 449
+  orig: 717, 449
+  offset: 0, 0
+  index: -1
+
+OtherPacker4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+righttouch
+  rotate: false
+  xy: 1, 1
+  size: 717, 449
+  orig: 717, 449
+  offset: 0, 0
+  index: -1
